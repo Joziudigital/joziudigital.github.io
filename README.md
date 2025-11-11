@@ -1,6 +1,17 @@
 # joziudigital.github.io
 Este es el primer proyecto y punto de partida para el programa de Desarrollo de Software del curso PENSAMIENTO ALGORITMICO
 
+## Tabla de contenidos
+- [¿Qué es el hardware](#¿Qué_es_el_hardware?)
+- [Características](#caracteristicas)
+- [Instalación](#instalacion)
+  - [Requisitos](#requisitos)
+  - [Instalación rápida](#instalacion-rapida)
+- [Uso](#uso)
+  - [Ejemplos](#ejemplos)
+- [Contribuir](#contribuir)
+- [Licencia](#licencia)
+
 # Pensamiento algorítmico
 ## ¿Qué es el hardware?
 El hardware se refiere a los componentes físicos de un sistema informático que puedes ver y tocar. Esto incluye dispositivos como la unidad central de procesamiento (CPU), módulos de memoria, discos duros, teclados, mouse, monitores y otros periféricos. El hardware es esencial para que una computadora funcione correctamente.
@@ -16,19 +27,6 @@ Cuando hablamos de software, nos referimos a algo intangible que está en nuestr
 El software funciona mediante un lenguaje de programación conocido como código binario, representado por ceros y unos. Este código permite a los programadores instruir al ordenador sobre qué acciones realizar, cómo y cuándo ejecutarlas.
 # Nombre del proyecto
 
-## Tabla de contenidos
-- [Introducción](#introduccion)
-- [Características](#caracteristicas)
-- [Instalación](#instalacion)
-  - [Requisitos](#requisitos)
-  - [Instalación rápida](#instalacion-rapida)
-- [Uso](#uso)
-  - [Ejemplos](#ejemplos)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-
-## Introduccion
-Breve descripción del proyecto.
 
 ## Caracteristicas
 - Feature A
