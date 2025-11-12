@@ -2,7 +2,7 @@
 Este es el primer proyecto y punto de partida para el programa de Desarrollo de Software del curso PENSAMIENTO ALGORITMICO
 
 ## Tabla de contenidos
-- [¿Qué es el hardware](#¿Qué_es_el_hardware?)
+- [¿Qué es el hardware?](#¿que_es_el_hardware?)
 - [Características](#caracteristicas)
 - [Instalación](#instalacion)
   - [Requisitos](#requisitos)
