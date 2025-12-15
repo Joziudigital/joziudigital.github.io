@@ -16,3 +16,14 @@ El software es un término fundamental en el mundo de la informática que se ref
 Cuando hablamos de software, nos referimos a algo intangible que está en nuestros ordenadores, como por ejemplo, Microsoft Word, la calculadora del sistema operativo o el calendario digital que utilizamos para programar reuniones.
 
 El software funciona mediante un lenguaje de programación conocido como código binario, representado por ceros y unos. Este código permite a los programadores instruir al ordenador sobre qué acciones realizar, cómo y cuándo ejecutarlas.
+
+
+## Link Tarea 2 Unidad 1
+https://github.com/Joziudigital/joziudigital.github.io/blob/main/blog/Tarea%202%20Unidad%201.ipynb
+
+## Link Tarea 3 
+### Proyecto MiniTurtle
+https://github.com/Joziudigital/mini_turtle
+
+### Proyecto MiniTurtle POO
+https://github.com/Joziudigital/mini_turtle_POO
