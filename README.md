@@ -1,16 +1,7 @@
 # joziudigital.github.io
 Este es el primer proyecto y punto de partida para el programa de Desarrollo de Software del curso PENSAMIENTO ALGORITMICO
 
-## Tabla de contenidos
-- [¿Qué es el hardware?](#¿que_es_el_hardware?)
-- [Características](#caracteristicas)
-- [Instalación](#instalacion)
-  - [Requisitos](#requisitos)
-  - [Instalación rápida](#instalacion-rapida)
-- [Uso](#uso)
-  - [Ejemplos](#ejemplos)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
+
 
 # Pensamiento algorítmico
 ## ¿Qué es el hardware?
@@ -25,35 +16,3 @@ El software es un término fundamental en el mundo de la informática que se ref
 Cuando hablamos de software, nos referimos a algo intangible que está en nuestros ordenadores, como por ejemplo, Microsoft Word, la calculadora del sistema operativo o el calendario digital que utilizamos para programar reuniones.
 
 El software funciona mediante un lenguaje de programación conocido como código binario, representado por ceros y unos. Este código permite a los programadores instruir al ordenador sobre qué acciones realizar, cómo y cuándo ejecutarlas.
-# Nombre del proyecto
-
-
-## Caracteristicas
-- Feature A
-- Feature B
-
-## Instalacion
-
-### Requisitos
-- Node >= 14
-- Docker (opcional)
-
-### Instalacion rapida
-1. Clona el repo
-2. Ejecuta `npm install`
-3. Ejecuta `npm start`
-
-## Uso
-Explicación de cómo usar el proyecto.
-
-### Ejemplos
-Ejemplo 1:
-```bash
-script de ejemplo
-```
-
-## Contribuir
-Guía rápida para contribuir.
-
-## Licencia
-MIT
