@@ -23,7 +23,7 @@ https://github.com/Joziudigital/joziudigital.github.io/blob/main/blog/Tarea%202%
 
 ## Link Tarea 3 
 ### Proyecto MiniTurtle
-https://github.com/Joziudigital/mini_turtle
+[Proyecto MiniTurtle](https://github.com/Joziudigital/mini_turtle)
 
 ### Proyecto MiniTurtle POO
-https://github.com/Joziudigital/mini_turtle_POO
+[Proyecto MiniTurtle POO](https://github.com/Joziudigital/mini_turtle_POO)
