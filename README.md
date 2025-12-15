@@ -19,7 +19,7 @@ El software funciona mediante un lenguaje de programación conocido como código
 
 
 ## Link Tarea 2 Unidad 1
-https://github.com/Joziudigital/joziudigital.github.io/blob/main/blog/Tarea%202%20Unidad%201.ipynb
+[Tarea 2 Unidad !](https://github.com/Joziudigital/joziudigital.github.io/blob/main/blog/Tarea%202%20Unidad%201.ipynb)
 
 ## Link Tarea 3 
 ### Proyecto MiniTurtle
